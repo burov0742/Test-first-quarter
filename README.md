@@ -8,8 +8,10 @@
 ### **Ход проекта**
 
 1. Написание блок схемы
-[блок схема программы](https://drive.google.com/file/d/1AqM2DjlV3-LNogNCU_b5hL5mtakFePqv/view?usp=sharing)
-2. Напимание программы
+
+    [блок схема программы](https://drive.google.com/file/d/1AqM2DjlV3-LNogNCU_b5hL5mtakFePqv/view?usp=sharing)
+
+2. Напиcание программы
 * _Добавление массива, с которым предстоит работать_
 * _Написание метода вывода массива_
 * _Написание основного метода решения задачи_
