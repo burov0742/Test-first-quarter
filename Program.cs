@@ -12,3 +12,18 @@ void ShowArray (string[] array)
 }
 
 ShowArray(NewArray);
+
+string [] FindShortWords (string [] array)
+{
+    string [] ShortWords =  new string [array.Length];
+    for(int i = 0; i < array.Length; i++ )
+    {
+        if ( array[i].Length <= 3)
+        ShortWords[i] = array[i];
+
+    }
+
+    return ShortWords;
+}
+
+ShowArray(FindShortWords(NewArray));
